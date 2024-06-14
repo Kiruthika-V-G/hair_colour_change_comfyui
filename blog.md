@@ -23,9 +23,9 @@ It works with **Ultralytics Detector Provider** which integrates advanced object
 
 # Generated Output
 ![input1](360_F_674565936_QnG6mnvRv4WOjb5wZKxH5PQ76Cm9rASI.jpg)
-![output1]("hairop.png")
-![input2]("beauty-parlour-hairdresser-hair-straightening-hair-coloring-model.jpg")
-![output2]("hairop3.png")
+![output1](hairop.png)
+![input2](beauty-parlour-hairdresser-hair-straightening-hair-coloring-model.jpg)
+![output2](hairop3.png)
 
 # Here is some prompt to start with
 **Prompt 1:**
